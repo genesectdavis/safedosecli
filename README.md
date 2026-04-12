@@ -7,14 +7,14 @@ Pessoas esquecem horários de medicamentos, causando riscos à saúde.
 Aplicação CLI para gerenciar medicamentos e horários.
 
 ## Funcionalidades
-- Adicionar medicamentos
-- Listar medicamentos
-- Marcar como tomado
+Adicionar medicamentos
+Listar medicamentos
+Marcar como tomado
 
 ## Tecnologias
-- Python
-- Pytest
-- Ruff
+Python
+Pytest
+Ruff
 
 ## Instalação
 pip install -r requirements.txt
