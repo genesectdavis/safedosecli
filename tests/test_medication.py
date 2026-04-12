@@ -1,5 +1,11 @@
 import pytest
-from src.medication import MedicationManager
+import pytest
+import sys
+import os
+
+sys.path.append(os.path.abspath("src"))
+
+from medication import MedicationManager
 
 def test_add_medication():
     manager = MedicationManager()
