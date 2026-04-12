@@ -1,5 +1,4 @@
 import pytest
-import pytest
 import sys
 import os
 
