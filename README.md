@@ -32,4 +32,4 @@ ruff check .
 1.0.0
 
 ## Autor
-Seu Nome
+Natan Davis 
