@@ -15,7 +15,8 @@ jobs:
           python-version: 3.11
 
       - name: Install dependencies
-        run: pip install -r requirements.txt ruff
+        run: |
+          pip install -r requirements.txt
 
       - name: Run lint
         run: ruff check .
