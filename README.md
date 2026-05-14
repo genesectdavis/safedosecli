@@ -35,6 +35,10 @@ pytest
 ## Lint
 ruff check .
 
+## Deploy 
+[https://safedosecli.onrender.com](https://dashboard.render.com/web/srv-d82vss1j2pic73bk7lug/deploys/dep-d82vsshj2pic73bk7mo0?r=2026-05-14%4016%3A54%3A14%7E2026-05-14%4016%3A57%3A11)
+
+
 ## Versão
 1.1.0
 
