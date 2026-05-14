@@ -35,6 +35,9 @@ pytest
 ## Lint
 ruff check .
 
+## Deploy 
+https://safedosecli.onrender.com
+
 ## Versão
 1.1.0
 
